@@ -1,0 +1,24 @@
+body {
+  font-size: 20px;
+  font-family: 'Calligraffitti', cursive;
+
+
+}
+
+
+ h1 ,h2, h3 {
+  color: red;
+}
+
+h4, h5, h6 {
+  color: green;
+}
+
+p, h1 {
+  color: black;
+}
+
+.head1 {
+  color: grey;
+  font-family: monospace;
+}
